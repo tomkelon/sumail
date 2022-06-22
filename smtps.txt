@@ -1,0 +1,2 @@
+smtp.gmail.com,a@gmail.com,pass1,1
+smtp.gmail.com,b@gmail.com,pass2,1
